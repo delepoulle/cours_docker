@@ -35,7 +35,7 @@ style: @import url('utilities.min.css');
 
 
 
-## Samuel Delepoulle / Nicolas Condette
+## Samuel Delepoulle et Nicolas Condette
 
 
 ---
