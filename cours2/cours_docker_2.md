@@ -47,7 +47,7 @@ style: @import url('utilities.min.css');
 - plus de 100.000 images disponibles dont de nombreuses officielles
   - systèmes : ubuntu, debian, alpine ...
   - serveurs : apache, nginx, tomcat ...
-  - bases de données : mariadb, mysql, postres, mongoDB ...
+  - bases de données : mariadb, mysql, postgres, mongoDB ...
   - langages : python, php, java, node, ...
 - mais il est souvent nécessaire de personnaliser les images
 - utilisation du fichier ``Dockerfile`` (« recette » de fabrication)
@@ -120,7 +120,7 @@ COPY \$FOO /quux # COPY $FOO /quux
 |----------|:-------------------:|--------:|
 | debian   | Debian GNU/Linux 11 | 124 MB  |
 | ubuntu   | Ubuntu 22.04.1 LTS  | 77 MB   |
-| alpine   | Alpine Linux 3.17   | 7,05 MB |
+| alpine   | Alpine Linux 3.19   | 7,38 MB |
 
 --- 
 
