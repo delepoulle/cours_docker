@@ -53,7 +53,7 @@ style: @import url('utilities.min.css');
 
 ## docker
 
-- permet d'interagir avec ``dockerd``
+- permet d'intéragir avec ``dockerd``
 
 - utilise une CLI (command line interface) pour ajouter, retirer et gérer les conteneurs
 
