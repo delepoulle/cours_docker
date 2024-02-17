@@ -112,7 +112,7 @@ Lancer Portainer à l'adresse http://localhost:9000 et créer un compte admin
 <div>
 
 - Recherche de templates prédéfinis
-- Création d'un template personnaliser
+- Création d'un template personnalisé
 - Personnalisation de la configuration
 - crée un conteneur fonctionnel en quelques instants
 
@@ -133,7 +133,7 @@ Lancer Portainer à l'adresse http://localhost:9000 et créer un compte admin
 <div>
 
 - Vue d'ensemble complète de l'état de vos conteneurs
-- Surveillance en temps réel l'utilisation des ressources, les journaux (logs) et les statistiques de performance
+- Surveillance en temps réel de l'utilisation des ressources, des journaux (logs) et des statistiques de performance
 - Action sur le conteneur (Start, Stop, Pause, Restart, ...)
 
 </div>
@@ -157,8 +157,8 @@ Via l'interface :
 # Gestion des stacks
 
 - Portainer nomme les Compose de Docker en stack.
-- Une stack est donc une collection de services interconnectés qui fonctionnent ensemble pour prendre en charge une application.
-- Les stacks sont généralement définis à l'aide de fichiers de configuration, tels que des fichiers Docker-Compose.
+- Une stack est donc une collection de services interconnectées qui fonctionnent ensemble pour prendre en charge une application.
+- Les stacks sont généralement définies à l'aide de fichiers de configuration, tels que des fichiers Docker-Compose.
 
 ---
 
